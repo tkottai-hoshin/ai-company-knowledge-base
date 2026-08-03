@@ -16,3 +16,4 @@ vectorstore/
 vectorstore/
 .env
 venv/
+data/
