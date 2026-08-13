@@ -4,7 +4,7 @@ Most organizations have important Documents, PDFs and Information which employee
 
 Model Optimization: 
 
-For larger workload, especially at the data center level, Kimi K3 version ____ Is a brand new model that is compatible for Commercial / Federal / Soveriegn cloud level of process retry logic, fallback chains, output parsers, repair loops, and evaluation gates for running millions of workloads on a continuous 24/7 basis. 
+For larger workload, especially at the data center level, Kimi K3 is a brand new model that is compatible for Commercial / Federal / Soveriegn cloud level of process retry logic, fallback chains, output parsers, repair loops, and evaluation gates for running millions of workloads on a continuous 24/7 basis. 
 
 For this project, running on a local machine, your limitation is your PC or Laptop. I've used Ollama which is open source model that is comparable to OpenAI, Anthropic and Kimi K3. From a data semantics perspective, were using Langchain to parse the data into different embeddings that help us store these chunks of data into a vectorization database (chroma).  
 
