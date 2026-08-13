@@ -1,7 +1,20 @@
 Purpose:
 
-Most organizations have important Documents, PDFs and Information which employees need to analyze. This is an application that will help employees swift through important 'Knowledge' that lives in the organization, 
-by using an intelligent RAG (Retrieval Augmented Generation) architecture hosted on your private cloud or local machine. 
+Most organizations have important Documents, PDFs and Information which employees need to analyze. This is an application that will help employees swift through important 'Knowledge' that lives in the organization, by using an intelligent RAG (Retrieval Augmented Generation) architecture hosted on your private cloud or local machine. 
+
+Model Optimization: 
+
+For larger workload, especially at the data center level, Kimi K3 version ____ Is a brand new model that is compatible with Soveriegn cloud level of process retry logic, fallback chains, output parsers, repair loops, and evaluation gates. 
+
+For this project, running on a local machine, your limitation is your PC or Laptop. I've used Ollama which is open source model that is comparable to OpenAI, Anthropic and Kimi K3. From a data semantics perspective, were using Langchain to parse the data into different embeddings that help us store these chunks of data into a vectorization database (chroma).  
+
+Token Optimization:
+
+Some strategies to optimize the efficiency of spending on tokens, it's important to give as much context as possible when constructing an INPUT. Input is not only the Prompt, but it is the contextual data that the LLM is processing along with your prompt. Ensuring the correct data structures provided in the INPUT. 
+
+Poor context = hallucinations or wasted tokens. 
+Wasted tokens = Poor OUTPUT
+
 
 
 Tech stack:
