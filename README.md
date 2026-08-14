@@ -10,7 +10,7 @@ For this project, running on a local machine, your limitation is your PC or Lapt
 
 Token Optimization:
 
-Some strategies to optimize the efficiency of spending on tokens, it's important to give as much context as possible when constructing an INPUT. The Input is not only the Prompt, but it is the contextual data that the LLM is processing along with your prompt. Do ensure the correct data provided in the INPUT. 
+To optimize the efficiency of spending on tokens, it's important to give as much context as possible when constructing an INPUT. The Input is not only the Prompt, but it is the contextual data that the LLM is processing along with your prompt. Do ensure the correct data provided in the INPUT. 
 
 Poor context = hallucinations or wasted tokens. 
 Wasted tokens = Poor OUTPUT
