@@ -12,6 +12,11 @@ Token Optimization:
 
 To optimize the efficiency of spending on tokens, it's important to give as much context as possible when constructing an INPUT. The Input is not only the Prompt, but it is the contextual data that the LLM is processing along with your prompt. Do ensure the correct data provided in the INPUT. 
 
+The "edges" of a context window refer to the very beginning (first tokens) and the very end (last tokens) of the text you give to an AI, rather than just the end:
+
+<img width="1332" height="748" alt="image" src="https://github.com/user-attachments/assets/82ecc1f8-0c14-4921-b753-2dc6c51911b0" />
+
+
 Poor context = hallucinations or wasted tokens. 
 Wasted tokens = Poor OUTPUT
 
